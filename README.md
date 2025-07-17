@@ -22,7 +22,7 @@ cyber hacker root_x
 
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=intruder-x&label=Profile%20views&color=0e75b6&style=flat" alt="intruder-x" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=intruder-x&label=Profile%20views&color=0e75b6&style=flat" alt="cyber root_x" /> </p>
 
 - ðŸŒ± Iâ€™m currently learning **Python,jawa**
 
@@ -30,9 +30,9 @@ cyber hacker root_x
 
 - ðŸ’¬ Ask me about **Breaking barriers, creating paths**
 
-- ðŸ“« How to reach me **intruderx94@gmail.com**
+- ðŸ“« How to reach me **root_x@gmail.com**
 
-- âš¡ Fun fact **Call me at Sudda ðŸ˜Š**
+- âš¡ Fun fact **Call me at Pasiya ðŸ˜Š**
 
 
 
@@ -71,9 +71,9 @@ cyber hacker root_x
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=INTRUDER-x\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Root_x\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=INTRUDER-x&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Root_x&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
@@ -82,12 +82,12 @@ cyber hacker root_x
 
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+INTRUDER-X;I'm+a+student+in+SRI+LANKA.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Root_X;I'm+a+student+in+SRI+LANKA.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 
 ---
 
-Credit: [INTRUDER -X ](https://github.com/INTRUDER-x)
+Credit: [ROOT_X](https://github.com/ROOT_X)
 
-Last Edited on 03/01/2024
+Last Edited on 17/july/2025
